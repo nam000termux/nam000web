@@ -1,0 +1,24 @@
+.XinChao {
+  text-align: center;
+  position: relative;
+  left: 25px;
+  color: rgba(100, 149, 237, 2);
+  font-size: 47px;
+  font-sytle: semi-bold;
+  font-family: "Ubuntu";
+}
+.Thongtinlienhe {
+  color: rgba(100, 149, 237, 2); 
+  font-size: 20px;
+  font-sytle: semi-bold;
+  font-family: "Arial";
+  text-align: center;
+  font-family: "Ubuntu";
+}
+.thongbao {
+    position: fixed;
+    left: 67px;
+}
+.Software {
+  position: fixed;
+}
